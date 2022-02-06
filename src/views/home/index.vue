@@ -1,5 +1,7 @@
 <template>
-  <div>首页</div>
+  <div>
+      <div lkasoa="" foo="" w;wf=""><!--  --></div>
+  </div>
 </template>
 
 <script>
